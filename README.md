@@ -2,6 +2,19 @@
 
 - This will be an attempt to remake Epic Game News with NextJs Framework.
 
+### Templates
+
+- https://elements.envato.com/web-templates/site-templates/next+js/properties-responsive
+
+### Admin Templates
+
+- https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs
+- https://nextjstemplates.com/blog/admin-dashboard-templates
+
+### Auth
+
+- https://nextjstemplates.com/blog/nextjs-authentication-using-authjs
+
 # NextJs
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
