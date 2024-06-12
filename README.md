@@ -2,16 +2,20 @@
 
 - This will be an attempt to remake Epic Game News with NextJs Framework.
 
-### Templates
+## Blog Template
+
+- https://themeforest.net/item/mykd-esports-and-gaming-nft-nextjs-template/47633505
+
+## Templates
 
 - https://elements.envato.com/web-templates/site-templates/next+js/properties-responsive
 
-### Admin Templates
+## Admin Templates
 
 - https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs
 - https://nextjstemplates.com/blog/admin-dashboard-templates
 
-### Auth
+## Auth
 
 - https://nextjstemplates.com/blog/nextjs-authentication-using-authjs
 
